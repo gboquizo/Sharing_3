@@ -24,6 +24,7 @@ import reentregaadivinalo.utiles.MiTeclado;
  * usando %d %n
  * 
  * @author Guillermo Boquizo Sánchez
+ * @author Javir Ponferrada López
  * @version 2.0
  */
 public class TestAdivinalo {
